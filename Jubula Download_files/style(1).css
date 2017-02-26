@@ -1,0 +1,217 @@
+@CHARSET "UTF-8";
+
+#the bit right at the top with the main navigation and google search bar
+#header {
+	width: 1024px;
+	padding: 0px 30px 10px 10px;
+	
+	}
+	
+#main {
+	width: 1024px;
+	}
+	
+#topmain {
+	width: 100%;
+	height: 240px;
+}
+
+.jubula {
+	background-image: url("images/jubulaBanner.png");
+	background-repeat: no-repeat;
+	width: 450px;
+	height: 240px;	
+}
+	
+#left {
+	width: 60%;
+	padding: 5px;
+	float: left;
+	}
+	
+#right {
+	width: 30%;
+	padding: 5px;
+	float: right;
+	}
+	
+h4 {
+	padding: 5px;
+	}
+
+#midcolumn {
+	width: 640px;
+	padding: 0 10px 10px 10px;
+}
+
+#rightcolumn {
+	width: 260px;
+}
+
+
+h3 {
+	clear: both;
+}
+
+h7 {
+	font-weight: bold;
+	padding: 5px;
+}
+
+a strong {
+	text-decoration: underline;
+}
+
+#introText p.left {
+	width: 48%;
+	float: left;
+}
+
+#introText p.right {
+	width: 48%;
+	float: right;
+}
+
+#feature_1 {
+	float: left;
+	width: 40%;
+	margin-right: 35px;
+}
+
+#feature_2 {
+	float: left;
+	width: 40%;
+	margin-right: 35px;
+}
+
+#feature_3 {
+	float: left;
+	width: 10%;
+}
+
+#feature_4 {
+	clear: both;
+	float: left;
+	width: 63%;
+	margin-right: 3%;	
+}
+
+#feature_more {
+	float: left;
+	width: 30%;
+}		
+	
+#bigbuttons {
+	position: relative;
+}
+#bigbuttons h3{
+	visibility: hidden;
+}
+
+#bigbuttons a {
+}
+
+#bigbuttons ul li {
+   display:block;
+   list-style-type:none;
+   background-color: red;
+   padding: 0;
+   margin: 0;
+}
+
+#bigbuttons a:hover {
+	text-decoration: none;
+}
+
+#bigbuttons a {
+   display: block;
+   height:77px; width:250px;
+   padding: 0;
+   margin: 20px;
+   text-indent: -9000px;
+   position: absolute;
+}
+
+#buttonDownload {
+   background:transparent url("images/buttonDownload.png") no-repeat 0 0;
+   top: 0px;
+   left: 0px;
+}
+
+#buttonDownload:hover {
+   background:transparent url("images/buttonDownload_sel.png") no-repeat 0 0;
+}
+
+   
+#buttonDocumentation {
+   background:transparent url("images/buttonDocumentation.png") no-repeat 0 0;
+   top: 87px;
+   left: 0px;
+}
+
+#buttonDocumentation:hover {
+   background:transparent url("images/buttonDocumentation_sel.png") no-repeat 0 0;
+}
+
+#buttonSupport {
+   background:transparent url("images/buttonSupport.png") no-repeat 0 0;
+   top: 0px;
+   left: 280px;
+}
+
+#buttonSupport:hover {
+   background:transparent url("images/buttonSupport_sel.png") no-repeat 0 0;
+}
+
+#buttonInvolved {
+   background:transparent url("images/buttonInvolved.png") no-repeat 0 0;
+   top: 87px;
+   left: 280px;
+}
+
+#buttonInvolved:hover {
+   background:transparent url("images/buttonInvolved_sel.png") no-repeat 0 0;
+}
+
+#bigbuttons a * {
+	visibility: hidden;
+}
+
+#headlines {
+}
+
+#headlines ul li {
+	margin: 0 0;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+	
+#headlines div.title {
+	display: inline;
+	margin-right: 0.5em;
+}
+
+#headlines div.meta {
+	display: inline;
+	color: #444444;
+	font-size: smaller;  
+}
+
+#headlines div.item {
+	display: block;
+	}
+	
+#screencast {
+	margin-bottom: 10px;
+}
+
+#newAndNoteworthy a {
+   display: block;
+   width:218px; 
+   height:51px;
+   padding: 0;
+   text-indent: -9000px;
+   background:transparent url("images/bannerNewAndNoteworthy08M4.png") no-repeat 0 0;
+   margin-top: 10px;
+}
