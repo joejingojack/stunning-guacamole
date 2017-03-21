@@ -1,4 +1,4 @@
-#<p align="center">Stunning Mexican Guacamole</p>
+<p align="center" style="text-size:18px;">Stunning Mexican Guacamole</p>
 <p align="center">
   <img src="screenshot.jpg" />
 </p>
