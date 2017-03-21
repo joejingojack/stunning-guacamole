@@ -1,4 +1,4 @@
-# Stunning Mexican Guacamole
+<p align="center"># Stunning Mexican Guacamole</p>
 <p align="center">
   <img src="screenshot.jpg" />
 </p>
