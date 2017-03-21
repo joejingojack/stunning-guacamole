@@ -2,9 +2,9 @@
   <img src="screenshot.jpg" />
 </p>
 
-### I've been practicing # some 
-* cool bash commands to this repo
+### I've been practicing 
+# some cool bash commands for this repo
+**Repo name:** *stunning-guacamole*
 ```
 **Branch:** *master*
 ``` 
-**Branch:** *master*
